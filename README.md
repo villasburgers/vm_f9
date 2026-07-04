@@ -1,5 +1,7 @@
 # 🛒 VM F9 - Tilføj/Fjern Rank med ox_lib
 
+DOCS: https://vm-store.gitbook.io/vm-store-docs
+
 VM Tilføj/Fjern Rank er et avanceret F9 admin script til FiveM 🚀  
 Det gør det muligt at **tilføje og fjerne ranks via en moderne ox_lib dropdown menu** 🔧🔥
 
