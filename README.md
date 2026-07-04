@@ -47,7 +47,7 @@ Fjern alle funktioner med:
 ch_addgroup_staff
 ch_removegroup_staff
 
-og indsæt denne kode i stedet:
+og indsæt denne kode i stedet: (Eller gå til filen jeg har uploaded vrp/modules/admin.lua og kopier der.)
 
 ```
 local function ch_addgroup_staff(player,choice)
